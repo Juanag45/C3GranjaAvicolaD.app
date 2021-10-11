@@ -52,7 +52,7 @@ namespace GranjaAvicolaD.app.Persistencia
             return galponEncontrado;
         }
 
-        /* DatosInicioSesion IRepositorioGalpon.AsignarOperario(int idGalpon,int idDatosInicioSesion)
+         DatosInicioSesion IRepositorioGalpon.AsignarOperario(int idGalpon,int idDatosInicioSesion)
         {
             var GalponEncontrado = _appContext.Galpones.Find(idGalpon);
             if (GalponEncontrado != null)
@@ -62,7 +62,7 @@ namespace GranjaAvicolaD.app.Persistencia
                 .SingleOrDefault();
                 if (datosInicioSesionEncontrado != null)
                 {
-                    GalponEncontrado.DatosInicioSesion = datosInicioSesionEncontrado;
+                    GalponEncontrado.Operario = datosInicioSesionEncontrado;
                     _appContext.SaveChanges();
                 }
                 return datosInicioSesionEncontrado;
@@ -76,16 +76,16 @@ namespace GranjaAvicolaD.app.Persistencia
             if (GalponEncontrado != null)
             {
                 var datosInicioSesionEncontrado = _appContext.DatosInicioSesiones.Where(p => p.Id == idDatosInicioSesion)
-                .Include(p => p.veterinario)
+                .Include(p => p.Rol)
                 .SingleOrDefault();
                 if (datosInicioSesionEncontrado != null)
                 {
-                    GalponEncontrado.datosInicioSesion = datosInicioSesionEncontrado;
+                    GalponEncontrado.Veterinario = datosInicioSesionEncontrado;
                     _appContext.SaveChanges();
                 }
                 return datosInicioSesionEncontrado;
             }
             return null;
-        }*/
+        }
     }
 }

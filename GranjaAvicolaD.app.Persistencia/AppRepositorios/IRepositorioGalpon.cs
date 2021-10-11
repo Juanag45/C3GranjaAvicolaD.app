@@ -15,8 +15,8 @@ namespace GranjaAvicolaD.app.Persistencia
 
         Galpon GetGalpon(int  idGalpon);
 
-        /*DatosInicioSesion AsignarOperario(int idGalpon,int idDatosInicioSesion);
+        DatosInicioSesion AsignarOperario(int idGalpon,int idDatosInicioSesion);
 
-        DatosInicioSesion AsignarVeterinario(int idGalpon,int idDatosInicioSesion);*/
+        DatosInicioSesion AsignarVeterinario(int idGalpon,int idDatosInicioSesion);
     }
 }
