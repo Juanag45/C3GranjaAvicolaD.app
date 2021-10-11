@@ -1,0 +1,12 @@
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\net5.0\GranjaAvicolaD.app.Dominio.deps.json
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\net5.0\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\net5.0\ref\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\bin\Debug\net5.0\GranjaAvicolaD.app.Dominio.pdb
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.csproj.AssemblyReference.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.AssemblyInfoInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.AssemblyInfo.cs
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.csproj.CoreCompileInputs.cache
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\ref\GranjaAvicolaD.app.Dominio.dll
+E:\Downloads\mision tic\desarrollo de software ciclo 3\ProjectoCiclo3\GranjaAvicolaD.app\GranjaAvicolaD.app.Dominio\obj\Debug\net5.0\GranjaAvicolaD.app.Dominio.pdb
